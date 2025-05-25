@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Manisha G
+# 👋 Hi, I'm [Manisha G](https://manishag2.github.io/My_profile/)
+
 
 🎓 Master's Student | Computer Science & Engineering  
 📍 Thiagarajar College of Engineering (TCE)  
